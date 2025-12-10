@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1765354946/15fa0734ef0090f60990a8485ca4aa02_r7hfwf.jpg" width="600px" height="300px" />
+  <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1765378403/5aec98f9-3174-434d-8652-223dc6c03be3_mv5d62.jpg" width="600px" height="300px" />
 </p>
 
 # Javascript--Lab-Core
